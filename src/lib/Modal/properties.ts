@@ -30,5 +30,5 @@ export const defaultModalProperties: ModalProperties = {
   },
   enableTransition: true,
   transitionType: 'ALL',
-  debounceTime: 700,
+  debounceTime: 700
 };
